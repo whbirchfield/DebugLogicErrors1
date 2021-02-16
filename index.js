@@ -4,7 +4,7 @@
 // Do not worry about fixing the code yet, we will do that in the next series of exercises.
 
 let launchReady = false;
-let crewReady = false;
+let crewReady = false; //added new variable for crew readiness
 let fuelLevel = 17000;
 let crewStatus = true;
 let computerStatus = 'green';
